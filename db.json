@@ -1,4 +1,4 @@
-cols: [
+"cols": [
     {
         "col_name": "user_trans_id",
         "display_name": "Transaction ID",
